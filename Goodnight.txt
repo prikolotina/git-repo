@@ -1,0 +1,2 @@
+print ("Goodnight world")
+print ("Goodnight")
